@@ -1,6 +1,5 @@
 streamlit
 spacy
-NTKL
 textblob
 gensim
 sumy
